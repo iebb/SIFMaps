@@ -19140,6 +19140,35 @@
         }
     },
     {
+        "live_track_id": 55,
+        "name": "START:DASH!!",
+        "title_asset": "assets\/image\/live\/title\/m_title_040.png",
+        "sound_asset": "assets\/sound\/music\/m_025.mp3",
+        "member_category": 1,
+        "live_setting_id": 661,
+        "difficulty": 6,
+        "stage_level": 11,
+        "attribute_icon_id": 1,
+        "live_icon_asset": "assets\/image\/live\/live_icon\/l_jacket_039.png",
+        "asset_background_id": 32,
+        "notes_speed": 0.7,
+        "notes_setting_asset": "Live_s0661.json",
+        "c_rank_score": 146645,
+        "b_rank_score": 366960,
+        "a_rank_score": 439935,
+        "s_rank_score": 513605,
+        "c_rank_combo": 209,
+        "b_rank_combo": 348,
+        "a_rank_combo": 487,
+        "s_rank_combo": 695,
+        "difficulty_text": "MASTER",
+        "name_translations": {
+            "english": "START: DASH!!",
+            "chinese": "START:DASH!!",
+            "korean": "START:DASH!!"
+        }
+    },
+    {
         "live_track_id": 449,
         "name": "\u305a\u308b\u3044\u3088Magnetic today",
         "title_asset": "assets\/image\/live\/title\/t_bd2_02_01.png",
