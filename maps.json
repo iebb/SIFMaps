@@ -19430,6 +19430,35 @@
         }
     },
     {
+        "live_track_id": 79,
+        "name": "\u611b\u306f\u592a\u967d\u3058\u3083\u306a\u3044\uff1f",
+        "title_asset": "assets\/image\/live\/title\/t_cd_09_01.png",
+        "sound_asset": "assets\/sound\/music\/m_033.mp3",
+        "member_category": 1,
+        "live_setting_id": 671,
+        "difficulty": 6,
+        "stage_level": 11,
+        "attribute_icon_id": 1,
+        "live_icon_asset": "assets\/image\/live\/live_icon\/j_cd_09_01.png",
+        "asset_background_id": 32,
+        "notes_speed": 0.7,
+        "notes_setting_asset": "Live_s0671.json",
+        "c_rank_score": 132297,
+        "b_rank_score": 331056,
+        "a_rank_score": 396891,
+        "s_rank_score": 463353,
+        "c_rank_combo": 189,
+        "b_rank_combo": 314,
+        "a_rank_combo": 439,
+        "s_rank_combo": 627,
+        "difficulty_text": "MASTER",
+        "name_translations": {
+            "english": "Ai wa Taiyo jyanai?",
+            "chinese": "\u7231\u5982\u9633\u5149\uff1f",
+            "korean": "\uc0ac\ub791\uc740 \ud0dc\uc591\uc774 \uc544\ub2d0\uae4c?"
+        }
+    },
+    {
         "live_track_id": 449,
         "name": "\u305a\u308b\u3044\u3088Magnetic today",
         "title_asset": "assets\/image\/live\/title\/t_bd2_02_01.png",
