@@ -19459,6 +19459,35 @@
         }
     },
     {
+        "live_track_id": 35,
+        "name": "\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30d7\u30ea\u30f3\u30bb\u30b9\u306e\u6182\u9b31",
+        "title_asset": "assets\/image\/live\/title\/m_title_035.png",
+        "sound_asset": "assets\/sound\/music\/m_032.mp3",
+        "member_category": 1,
+        "live_setting_id": 672,
+        "difficulty": 6,
+        "stage_level": 11,
+        "attribute_icon_id": 3,
+        "live_icon_asset": "assets\/image\/live\/live_icon\/l_jacket_006.png",
+        "asset_background_id": 32,
+        "notes_speed": 0.7,
+        "notes_setting_asset": "Live_s0672.json",
+        "c_rank_score": 118371,
+        "b_rank_score": 296208,
+        "a_rank_score": 355113,
+        "s_rank_score": 414579,
+        "c_rank_combo": 169,
+        "b_rank_combo": 281,
+        "a_rank_combo": 393,
+        "s_rank_combo": 561,
+        "difficulty_text": "MASTER",
+        "name_translations": {
+            "english": "Diamond Princess no Yuutsu",
+            "chinese": "Diamond Princess\u7684\u5fe7\u90c1",
+            "korean": "\ub2e4\uc774\uc544\ubaac\ub4dc \ud504\ub9b0\uc138\uc2a4\uc758 \uc6b0\uc6b8"
+        }
+    },
+    {
         "live_track_id": 449,
         "name": "\u305a\u308b\u3044\u3088Magnetic today",
         "title_asset": "assets\/image\/live\/title\/t_bd2_02_01.png",
