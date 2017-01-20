@@ -21235,6 +21235,37 @@
         }
     },
     {
+        "live_track_id": 146,
+        "name": "Paradise Live",
+        "name_kana": "\u30cf\u30e9\u30bf\u30a4\u30b9\u30e9\u30a4\u30d5",
+        "title_asset": "assets\/image\/live\/title\/t_cd_29_02.png",
+        "sound_asset": "assets\/sound\/music\/m_037.mp3",
+        "member_category": 1,
+        "member_tag_id": 4,
+        "live_setting_id": 686,
+        "difficulty": 6,
+        "stage_level": 11,
+        "attribute_icon_id": 3,
+        "live_icon_asset": "assets\/image\/live\/live_icon\/j_cd_29_02.png",
+        "asset_background_id": 32,
+        "notes_speed": 0.7,
+        "notes_setting_asset": "Live_s0686.json",
+        "c_rank_score": 160571,
+        "b_rank_score": 401808,
+        "a_rank_score": 481713,
+        "s_rank_score": 562379,
+        "c_rank_combo": 229,
+        "b_rank_combo": 381,
+        "a_rank_combo": 533,
+        "s_rank_combo": 761,
+        "difficulty_text": "MASTER",
+        "name_translations": {
+            "english": "Paradise Live",
+            "chinese": "Paradise Live",
+            "korean": "Paradise Live"
+        }
+    },
+    {
         "live_track_id": 449,
         "name": "\u305a\u308b\u3044\u3088Magnetic today",
         "name_kana": "\u30b9\u30eb\u30a4\u30e8\u30de\u30af\u30cd\u30c6\u30a4\u30c4\u30af\u30c8\u30a6\u30c6\u30a4",
